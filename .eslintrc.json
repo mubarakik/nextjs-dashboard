@@ -5,7 +5,7 @@
   ],
   "rules": {
     "no-unused-vars": "off",          // disable warnings for unused variables
-    "unused-imports/no-unused-imports": "off", // disable unused imports if using plugin
+    "unused-imports/no-unused-imports": "off" // disable unused imports if using plugin
   }
    
 }
