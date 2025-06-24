@@ -2,5 +2,10 @@
   "extends": [
     "next/core-web-vitals",
     "next/typescript"
-  ]
+  ],
+  "rules": {
+    "no-unused-vars": "off",          // disable warnings for unused variables
+    "unused-imports/no-unused-imports": "off", // disable unused imports if using plugin
+  }
+   
 }
